@@ -1,0 +1,143 @@
+Class,Player,Stars,Composite rating,Signed with,GS Year 1,GS Year 2,Qualifies
+2017,Davis Mills,5,.9918,Stanford,0,1,N
+2017,Hunter Johnson,5,.9854,Clemson,0,0,N
+2017,Tua Tagovailoa,5,.9843,Alabama,0,14,Y
+2017,Jake Fromm,4,.9794,Georgia,14,14,Y
+2017,Tate Martell,4,.9739,Ohio State,0,0,N
+2017,Jack Sears,4,.9516,USC,0,1,N
+2017,Kellen Mond,4,.9498,Texas A&M,8,13,Y
+2017,Sam Ehlinger,4,.9446,Texas,6,14,Y (exactly 6 in Y1)
+2017,Dylan McCaffrey,4,.9435,Michigan,0,0,N
+2017,Myles Brennan,4,.9347,LSU,0,0,N
+2017,Keytaon Thompson,4,.9289,Mississippi State,~2,~2,N
+2017,Chris Robison,4,.9273,Oklahoma,0,11\* (FAU),Y
+2017,Sean Clifford,4,.9223,Penn State,0,0,N
+2017,Shawn Robinson,4,.9222,TCU,1,7,Y
+2017,N'Kosi Perry,4,.9218,Miami,0,6,Y (exactly 6)
+2017,Tristan Gebbia,4,.9218,Nebraska,0,0,N
+2017,Kasim Hill,4,.9110,Maryland,2,10,Y
+2017,Avery Davis,4,.9079,Notre Dame,0,0,N
+2017,Lowell Narcisse,4,.9041,LSU,0,0,N
+2017,Bailey Hockman,4,.8992,Florida State,0,0,N
+2017,Braxton Burmeister,4,.8972,Oregon,5,0,N — near-miss (exactly 5)
+2017,Hendon Hooker,4,.8933,Virginia Tech,0,0,N
+2017,Chase Garbers,4,.8926,California,0,10,Y (redshirted Y1; GS 9 per Wikipedia)
+2017,Tommy DeVito,4,.8915,Syracuse,0,0,N
+2017,Ryan Kelley,4,.8900,Arizona State,0,0,N
+2018,Trevor Lawrence,5,,Clemson,11,14,Y
+2018,Justin Fields,5,,Georgia,0,14\* (Ohio State),Y
+2018,JT Daniels,5,,USC,11,2,Y
+2018,Dorian Thompson-Robinson,4,,UCLA,~8,11,Y
+2018,Justin Rogers,4,,TCU,0,1,N (severe knee injury)
+2018,Tanner McKee,4,,Stanford,0,0,N (LDS mission; enrolled 2020)
+2018,Matt Corral,4,,Ole Miss,0,4,N — near-miss
+2018,Jarren Williams,4,,Miami,0,10,Y
+2018,Phil Jurkovec,4,,Notre Dame,0,0,N
+2018,Emory Jones,4,,Florida,0,0,N
+2018,Jacob Sirmon,4,,Washington,0,0,N
+2018,Colson Yankoff,4,,Washington,0,0,N
+2018,Jack Tuttle,4,,Utah,0,0,N
+2018,Jack West,4,,Stanford,0,0,N
+2018,Adrian Martinez,4,,Nebraska,11,10,Y
+2018,Joe Milton,4,,Michigan,0,0,N
+2018,Tyler Shough,4,,Oregon,0,0,N
+2018,Spencer Sanders,4,,Oklahoma State,0,10,Y (redshirted Y1)
+2018,Dakereon Joyner,4,,South Carolina,0,0,N (converted)
+2018,Gerry Bohanon,4,,Baylor,0,~1,N
+2018,Casey Thompson,4,,Texas,0,0,N
+2018,Jalen Mayden,4,,Mississippi State,0,0,N
+2018,Brevin White,4,,Princeton (FCS),0,0,N
+2018,Theo Day,4,,Michigan State,0,0,N
+2019,Spencer Rattler,5,.9942,Oklahoma,0,11,Y
+2019,Bo Nix,5,.9856,Auburn,13,11,Y
+2019,Jayden Daniels,4,.9832,Arizona State,12,4,Y
+2019,Ryan Hilinski,4,.9695,South Carolina,11,2,Y
+2019,Graham Mertz,4,.9689,Wisconsin,0,7,Y (all 7 games of COVID season)
+2019,Sam Howell,4,.9582,North Carolina,13,11,Y
+2019,Dylan Morris,4,.9304,Washington,0,4,N — COVID-shortened (team played 4)
+2019,Taulia Tagovailoa,4,.9269,Alabama,0,4\* (Maryland),N — COVID-shortened (team played 5)
+2019,Max Duggan,4,.9169,TCU,10,9,Y
+2019,Taisun Phommachanh,4,.9157,Clemson,0,0,N
+2019,Hank Bachmeier,4,.9114,Boise State,8,4,Y
+2019,Roschon Johnson,4,.9111,Texas,0,0,N (converted to RB)
+2019,Garrett Shrader,4,.9106,Mississippi State,4,0,N
+2019,"*(one Composite slot, ~.907, name not legible in text extraction — assessed)*",4,~.907,—,—,,N (assumed; no unaccounted early starter exists in this class)
+2019,Cade McNamara,4,.9052,Michigan,0,0,N
+2019,Jacob Zeno,4,.9048,Baylor,0,0,N
+2019,Ta'Quan Roberson,4,.9045,Penn State,0,0,N
+2019,Lance LeGendre,4,.9036,Maryland,0,0,N
+2019,D'Wan Mathis,4,.9034,Georgia,1,0,N
+2019,Joey Yellen,4,.9023,Arizona State,0,1,N
+2019,Jacob Conover,4,.9006,BYU,0,0,N
+2019,KJ Jefferson,4,.9001,Arkansas,1,2,N
+2019,Jalon Jones,4,.9001,Florida,0,0,N
+2019,Peter Parrish,4,.8989,LSU,0,0,N
+2019,Paul Tyson,4,.8972,Alabama,0,0,N
+2019,Grant Tisdale,4,.8967,Ole Miss,0,0,N
+2019,John Rhys Plumlee,4,.8936,Ole Miss,8,2,Y
+2019,Connor Bazelak,4,.8914,Missouri,1,8,Y
+2019,Michael Johnson Jr.,4,.8905,Penn State,0,0,N
+2019,Cale Millen,4,.8904,Oregon,0,0,N
+2020,Bryce Young,5,.9994,Alabama,0,15,Y
+2020,DJ Uiagalelei,5,.9949,Clemson,2,13,Y
+2020,CJ Stroud,4,.9779,Ohio State,0,13,Y
+2020,Hudson Card,4,.9721,Texas,0,3,N
+2020,Ja'Quinden Jackson,4,.9663,Texas,0,0,N (converted to RB)
+2020,Luke Doty,4,.9631,South Carolina,~2,~3,N
+2020,Harrison Bailey,4,.9555,Tennessee,2,0,N
+2020,Ethan Garbers,4,.9474,Washington,0,1 (at UCLA),N
+2020,Haynes King,4,.9397,Texas A&M,0,2,N
+2020,Jay Butterfield,4,.9352,Oregon,0,0,N
+2020,Shane Illingworth,4,.9295,Oklahoma State,~2,~3,N
+2020,Evan Prater,4,.9279,Cincinnati,0,0,N (converted to WR)
+2020,Chubba Purdy,4,.9227,Florida State,~1,~1,N
+2020,Malik Hornsby,4,.9208,Arkansas,0,0,N (at QB)
+2020,Anthony Richardson,4,.9204,Florida,0,~2,N
+2020,Tyler Van Dyke,4,.9173,Miami,0,9,Y
+2020,Jeff Sims,4,.9170,Georgia Tech,10,8,Y
+2020,Drew Pyne,4,.9165,Notre Dame,0,0,N
+2020,Carson Beck,4,.9095,Georgia,0,0,N
+2020,Max Johnson,4,.9091,LSU,2,12,Y (started all 12 in 2021)
+2020,Parker McQuarrie,4,.9076,UCLA,0,0,N (converted to TE)
+2020,Michael Alaimo,4,.9072,Purdue,0,0,N
+2020,Jacolby Criswell,4,.9070,North Carolina,0,0,N
+2020,Logan Smothers,4,.9016,Nebraska,0,1,N
+2020,Robby Ashford,4,.9006,Oregon,0,0,N
+2020,Hunter Dekkers,4,.9006,Iowa State,0,0,N
+2020,Jack Miller,4,.8951,Ohio State,0,0,N
+2020,Mason Garcia,4,.8933,East Carolina,0,0,N
+2020,Jalen Suggs,4,.8933,Gonzaga (basketball),—,,N/A pool artifact
+2021,Quinn Ewers,5,1.0000,Ohio State,0,10\* (Texas),Y
+2021,Caleb Williams,5,.9969,Oklahoma,7,13 (USC),Y (qualified at signing school)
+2021,Sam Huard,5,.9935,Washington,1,0,N
+2021,Brock Vandagriff,5,.9908,Georgia,0,0,N
+2021,J.J. McCarthy,5,.9866,Michigan,0,13,Y
+2021,Kyle McCord,5,.9858,Ohio State,1,0,N
+2021,Ty Thompson,4,.9809,Oregon,0,0,N
+2021,Jake Garcia,4,.9761,Miami,0,1,N
+2021,Drake Maye,4,.9724,North Carolina,0,~13,Y
+2021,Jaxson Dart,4,.9693,USC,3,13\* (Ole Miss),Y
+2021,Tyler Buchner,4,.9684,Notre Dame,0,3,N
+2021,Miller Moss,4,.9663,USC,0,0,N
+2021,Jalen Milroe,4,.9631,Alabama,0,1,N
+2021,Garrett Nussmeier,4,.9624,LSU,0,0,N
+2021,Preston Stone,4,.9497,SMU,0,1,N
+2021,Sawyer Robertson,4,.9392,Mississippi State,0,0,N
+2021,Kaidon Salter,4,.9375,Tennessee,0,4 (Liberty),N — near-miss (injury)
+2021,Carlos Del Rio-Wilson,4,.9357,Florida,0,0,N
+2021,Behren Morton,4,.9356,Texas Tech,0,4,N
+2021,Eli Stowers,4,.9267,Texas A&M,0,0,N (converted to TE)
+2021,Luke Altmyer,4,.9219,Ole Miss,0,0,N
+2021,Jake Rubley,4,.9204,Kansas State,0,0,N
+2021,Gavin Wimsatt,4,.9201,Rutgers,0,2,N
+2021,Donaven McCulley,4,.9167,Indiana,4,0,N — near-miss
+2021,Dematrius Davis Jr.,4,.9148,Auburn,0,0,N
+2021,Shedeur Sanders,4,.9126,Jackson State (FCS),13,13,Y FCS
+2021,Peter Costelli,4,.9095,Utah,0,0,N
+2021,Kyron Drones,4,.9087,Baylor,0,2,N
+2021,Aaron McLaughlin,4,.9068,NC State,0,0,N
+2021,Kai Millner,4,.9024,California,0,0,N
+2021,Athan Kaliakmanis,4,.8964,Minnesota,0,5,N — near-miss
+2021,Sam Jackson V,4,.8929,TCU,0,0,N (at QB)
+2021,Bubba Chandler,4,.8919,Clemson,—,,"N/A (signed, went MLB)"
+2021,Tyler Macon,4,.8911,Missouri,0,0,N
