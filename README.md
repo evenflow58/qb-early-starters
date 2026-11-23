@@ -47,9 +47,9 @@ The 4-star is the worst buy in the middle: expensive enough to hurt, too unrelia
 
 Two things to notice. First, the 3-star never leaks: every 3-star early starter in both eras qualified at his signing school. Second, **the 4-star leak is a post-NIL era effect, not a 4-star trait** — before NIL, 4-star capture was 92.6%, the best of any tier. The 2021 transition class and the free-transfer rule sit between those two numbers, so the leak should be stated as a claim about the current era, not about 4-stars as people. The post-NIL sample is also small (15 four-star qualifiers), so one or two players swing the percentage.
 
-## The barbell: pay up, or pay almost nothing
+## The strategy: pay up, or pay almost nothing
 
-The numbers point to a barbell, not a middle:
+The numbers point to the two extremes, not the middle:
 
 - **Pay up for a true 5-star.** Half of them deliver an in-house early starter, and 86% of the ones who start do it for you. The 5-star is a different asset class from a generic 4-star.
 - **Or buy 3-stars cheap, in volume, and keep starter money for later.** The hit rate is low (5.9%), but the pool is ~6× the 4-star pool, the misses are cheap, capture is 100%, and 3-stars produced more early starters per class than all blue chips combined in both eras (post-NIL 8.7 vs 7.3 per class; pre-NIL 10.2 vs 7.6). Starter money then goes to demonstrated production — a proven portal starter, or retaining your own 3-star who hit.
@@ -79,7 +79,7 @@ Overall retention: pre-NIL (careers complete) 32.9% stayed; post-NIL (fall-2026 
 
 ## Upside — where stars still dominate
 
-Among pre-NIL early starters, **52.6% of blue chips were NFL-drafted** (the 5-star qualifiers went 9/11, eight in Round 1) vs **21.6% of 3-stars**. The 3-star successes are real (Zach Wilson #2, Michael Penix Jr. #8, Kenny Pickett #20) but the median 3-star early starter was an undrafted G5 starter. The barbell is a strategy for getting a starter on the field cheaply, not for producing NFL quarterbacks — that still tracks star level.
+Among pre-NIL early starters, **52.6% of blue chips were NFL-drafted** (the 5-star qualifiers went 9/11, eight in Round 1) vs **21.6% of 3-stars**. The 3-star successes are real (Zach Wilson #2, Michael Penix Jr. #8, Kenny Pickett #20) but the median 3-star early starter was an undrafted G5 starter. This two-extremes approach is a strategy for getting a starter on the field cheaply, not for producing NFL quarterbacks — that still tracks star level.
 
 ## The verdict, restated
 
