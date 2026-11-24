@@ -17,8 +17,6 @@ It covers two eras, split by the start of NIL (July 1, 2021):
 
 📊 **Check the work:** every dataset is in [`data/`](data/) as a CSV — GitHub renders them as tables right in the browser, or download them for Excel/Sheets. Full methodology, sources, and caveats are in [`reports/`](reports/).
 
-*Reframed November 22, 2026 around the signing school's return. The underlying research (Nov 8, 2026) is unchanged; the reports in `reports/` keep their original framing.*
-
 ---
 
 ## The headline: what one signing delivers, in-house
@@ -56,9 +54,9 @@ The numbers point to the two extremes, not the middle:
 
 What the middle buys you is the worst of both: a real price, a ~15% in-house hit rate, and a one-in-four chance that even the hit starts somewhere else.
 
-## Step 1, for the record: starts anywhere
+## Starts anywhere — the baseline
 
-For completeness, the original headline — early starts regardless of school — is unchanged. Star level still predicts it steeply, and nearly identically across eras:
+Early starts regardless of school: star level still predicts them steeply, and nearly identically across eras:
 
 | Star level | Pre-NIL 2017–2021 | Post-NIL 2022–2024 |
 |---|---|---|
@@ -137,4 +135,4 @@ reports/                    The four underlying research reports, with full sour
 
 Data and text in this repository are shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use them, just credit the source. Player statistics remain the property of their original publishers; this is a compilation of publicly reported facts.
 
-*Compiled November 8, 2026; reframed November 22, 2026. Corrections welcome — open an issue.*
+*Compiled November 8, 2026. Corrections welcome — open an issue.*
